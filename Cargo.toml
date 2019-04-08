@@ -1,0 +1,7 @@
+[package]
+name = "quasar"
+version = "0.1.0"
+authors = ["Florentin DUBOIS <florentin.dubois@corp.ovh.com>"]
+edition = "2018"
+
+[dependencies]
