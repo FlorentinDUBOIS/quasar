@@ -8,5 +8,6 @@ build = "build.rs"
 [dependencies]
 
 [build-dependencies]
+failure = "0.1.5"
 reqwest = "0.9.13"
 protobuf-codegen-pure = "2.4.2"
