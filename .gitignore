@@ -14,3 +14,7 @@
 **/*.rs.bk
 
 # End of https://www.gitignore.io/api/rust
+
+### Quasar ###
+# Remove protobuf files generated on builds
+/protobuf/

@@ -3,5 +3,10 @@ name = "quasar"
 version = "0.1.0"
 authors = ["Florentin DUBOIS <florentin.dubois@corp.ovh.com>"]
 edition = "2018"
+build = "build.rs"
 
 [dependencies]
+
+[build-dependencies]
+reqwest = "0.9.13"
+protobuf-codegen-pure = "2.4.2"
